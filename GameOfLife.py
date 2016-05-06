@@ -2,13 +2,13 @@
 # Conway's Game of Life
 # More programs at UsingPython.com/programs
 #----------------------------------------------
-# add new line
 
 import random
 import time
 import os
 
 #---------------------------------------------------------------------------
+# new line
 
 def initGrid(cols, rows, array):
     for i in range(rows):
